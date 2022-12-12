@@ -66,4 +66,4 @@ do
 done
 
 #Ready to be committed
-#Calculator is readdy to be committed
+#Added SSH jey to github repo
